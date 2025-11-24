@@ -95,6 +95,8 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
+  - id: "douyin"
+    name: "抖音"
   - id: "toutiao"
     name: "今日头条"
   - id: "baidu"
@@ -113,7 +115,5 @@ platforms:
     name: "贴吧"
   - id: "weibo"
     name: "微博"
-  - id: "douyin"
-    name: "抖音"
   - id: "zhihu"
     name: "知乎"
